@@ -1,5 +1,5 @@
 '''
-abbrevations:
+Note : Refer the abbrevations used below
 
 variable name conventions:
 ctx = Context,
